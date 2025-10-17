@@ -1,4 +1,5 @@
 # DA5401 – Assignment 06  
+## Name: Nitesh Kumar Shah | Roll Number: ID25M806
 ### Imputation via Regression
 
 ## Overview
@@ -105,5 +106,17 @@ In more complex scenarios, non-linear imputers like KNN would typically outperfo
 
 ---
 
-## Repository Structure
+## Repository Structure ( the file lab06.ipynb has thhe code with necessary markdown files to explain the inference of the same)
+
+
+
+---
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rbhdsks/DA5401-Assignment06.git
+   cd DA5401-Assignment06
+
+
 
